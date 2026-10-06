@@ -1,0 +1,22 @@
+# Sesión 2026-10-06 — relleno formulario mail
+
+## Objetivo
+Automatizar el relleno de formularios y el envío de correos (carpeta "entrevistas automaticación").
+
+## Estado
+- Todavía no se ha rellenado ningún formulario ni enviado ningún correo.
+- Esta carpeta contiene solo este archivo de notas.
+
+## Herramientas disponibles
+- Gmail: buscar hilos, crear borradores, responder, enviar.
+- Navegador (extensión de Chrome o navegador integrado): para rellenar formularios web.
+- Google Drive: necesita autorización desde los ajustes de conectores de claude.ai.
+
+## Pendiente para la próxima sesión
+1. Definir qué formulario hay que rellenar y con qué datos.
+2. Definir a quién va el correo y con qué contenido.
+3. Revisar el borrador antes de enviar nada.
+
+## Contexto
+- Repo relacionado: https://github.com/ignaciodeparellada-rgb/claude-prueba (rama local `improve-readme`).
+- Esta carpeta está en `C:\Users\MSI\claude code\entrevistas automaticación`, fuera del repo `claude-prueba`.
